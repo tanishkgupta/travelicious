@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "619693466430",
+    "firebase_url": "https://srmhackathon-8408a.firebaseio.com",
+    "project_id": "srmhackathon-8408a",
+    "storage_bucket": "srmhackathon-8408a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:619693466430:android:b8261091eead1c61",
+        "android_client_info": {
+          "package_name": "github.com.anurag145.srmhackathon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "619693466430-s7nfpo2c3jdl1taug9k665jibsobhh90.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTABLgfmYRSpbFcCX3PZ-pTD4c3iP_FDc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

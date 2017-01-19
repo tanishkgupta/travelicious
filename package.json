@@ -1,0 +1,22 @@
+{
+  "name": "TravelBot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Deepak Pathania",
+  "license": "ISC",
+  "dependencies": {
+	"baidu-ocr-api": "^2.0.5",
+	"googleplaces": "^0.6.0",
+	"node-googleplaces": "^0.1.2",
+	"node-telegram-bot": "^0.1.9",
+	"require": "^2.4.20",
+	"telegram-bot-api": "^1.2.0",
+	"telegram-node-bot": "^3.0.12",
+	"yandex-translate": "^2.1.0",
+	"yandex-translate": "^1.0.1"
+	}
+}
